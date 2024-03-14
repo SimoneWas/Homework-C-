@@ -1,0 +1,14 @@
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.AssemblyInfo.cs
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.exe
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.deps.json
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.runtimeconfig.json
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.dll
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.pdb
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.dll
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\obj\Debug\net6.0\refint\SwapNumbers.dll
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.pdb
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.genruntimeconfig.cache
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\SwapNumbers\obj\Debug\net6.0\ref\SwapNumbers.dll
