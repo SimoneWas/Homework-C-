@@ -1,0 +1,4 @@
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\Homework07\Homework07\obj\Debug\net6.0\Homework07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\Homework07\Homework07\obj\Debug\net6.0\Homework07.AssemblyInfoInputs.cache
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\Homework07\Homework07\obj\Debug\net6.0\Homework07.AssemblyInfo.cs
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\Homework07\Homework07\obj\Debug\net6.0\Homework07.csproj.CoreCompileInputs.cache
