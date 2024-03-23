@@ -1,0 +1,14 @@
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework04.AssemblyInfoInputs.cache
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework04.AssemblyInfo.cs
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework04.csproj.CoreCompileInputs.cache
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Homework04.exe
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Homework04.deps.json
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Homework04.runtimeconfig.json
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Homework04.dll
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Homework04.pdb
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework04.dll
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Homework04.dll
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework04.pdb
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework04.genruntimeconfig.cache
+C:\Users\Computer\OneDrive\Desktop\SEAVUS\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Homework04.dll
